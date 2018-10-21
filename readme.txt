@@ -7,3 +7,4 @@ Simple Book Reading List app, created using HTML, Bootstrap CSS and JS.
 
 App saves a list of books on local storage, so the list saves even after reopening the page.
 
+App on codepen.io: https://codepen.io/pukinho-the-sasster/pen/VEBZGL
